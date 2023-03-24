@@ -12,15 +12,6 @@ for R packages.
 \details{
 For more information please visit \href{https://kkmann.github.io/workshop-r-swe}{kkmann.github.io/workshop-r-swe}. # nolint
 }
-\seealso{
-Useful links:
-\itemize{
-  \item \url{https://kkmann.github.io/workshop-r-swe}
-  \item \url{https://github.com/kkmann/workshop-r-swe}
-  \item Report bugs at \url{https://github.com/fpahlke/simulatr/issues}
-}
-
-}
 \author{
 Friedrich Pahlke, Daniel Sabanes Bove, Kevin Kunzmann
 }
