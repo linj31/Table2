@@ -12,3 +12,6 @@
 ^Meta$
 ^codecov\.yml$
 ^\.github$
+^simulatr\.Rcheck$
+^simulatr.*\.tar\.gz$
+^simulatr.*\.tgz$

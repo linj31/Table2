@@ -7,3 +7,6 @@ inst/doc
 dev
 /doc/
 /Meta/
+simulatr.Rcheck/
+simulatr*.tar.gz
+simulatr*.tgz

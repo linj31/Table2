@@ -19,6 +19,7 @@
 #' @import graphics
 #' @import tools
 #' @import checkmate
+#' @import ggplot2
 #'
 "_PACKAGE"
 #> [1] "_PACKAGE"
