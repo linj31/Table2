@@ -20,6 +20,7 @@
 #' @import tools
 #' @import checkmate
 #' @import ggplot2
+#' @import haven
 #'
 "_PACKAGE"
 #> [1] "_PACKAGE"
